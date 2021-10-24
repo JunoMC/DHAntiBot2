@@ -1,0 +1,6 @@
+name: DHAntiBot
+version: ${project.version}
+main: xyz.junomc.dhantibot.DHAntiBot
+api-version: 1.17
+authors: [ JunoMC ]
+description: Ngăn chặn Join Bot tấn công máy chủ Minecraft
